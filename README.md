@@ -26,13 +26,15 @@ This will install [Express.js](https://www.npmjs.com/package/express), [Dotenv](
 ### [Recording of Application](https://drive.google.com/file/d/1o8NwStLWbqlhbAVDs2h20t3VecXmudY8/view)
 
 Feel free to reference the walkthrough video above for the following steps:
-1. Once repo is cloned locally, the first step to run the application is to run MySQL to create the database and then seed, demonstrated in the video.
+1. Once repo is cloned locally, the first step to run the application is to create your own personal .env file to hold your sensitive information to connect to MySQL database through sequelize.
+   
+2. After that you can run MySQL to create the database and then seed, demonstrated in the video.
 
-2. Once the database is created and seeded, the next step is to start the server!
+3. Once the database is created and seeded, the next step is to start the server!
 
                 `node server.js`
 
-3. From there, open Insomnia to test out the different routes available for each database: Categories, Products, and Tag. See the setup below of Insomnia:
+4. From there, open Insomnia to test out the different routes available for each database: Categories, Products, and Tag. See the setup below of Insomnia:
 
 ![Screenshot of insomnia routes](./assets/images/e-commerce-insomnia.png)
 
