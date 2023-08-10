@@ -36,6 +36,9 @@ Feel free to reference the walkthrough video above for the following steps:
 
 ![Screenshot of insomnia routes](./assets/images/e-commerce-insomnia.png)
 
+## Credit
+
+Starter code provided by University of Texas.
 
 ## License
 
